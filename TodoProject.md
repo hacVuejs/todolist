@@ -1,6 +1,6 @@
 # To do list Project
 
-![img_todo](E:\작업\기타\참고\해커스\스터디\img_todo.jpg)
+![img_todo](https://github.com/hacVuejs/todolist/blob/master/img_todo.jpg)
 
 ### *추가 반영 사항
 
