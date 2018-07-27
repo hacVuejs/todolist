@@ -40,10 +40,16 @@
 
 
 
-**참고)**
+**참고1)**
 
 https://kr.vuejs.org/v2/examples/todomvc.html
 
 https://www.npmjs.com/package/vue-draggable
 
 https://www.npmjs.com/package/vue-datepicker
+
+**참고2)**
+
+http://10.100.0.65/vuejs_study/todo_list_pcg/
+
+http://222.122.229.21/guide/publish/tree/master/vuejs_study/todo_list_pcg
